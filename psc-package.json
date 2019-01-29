@@ -1,0 +1,14 @@
+{
+  "name": "pawk",
+  "set": "psc-0.12.2-pawk",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "arrays",
+    "effect",
+    "maybe",
+    "minimist",
+    "node-process",
+    "prelude",
+    "transformers"
+  ]
+}
